@@ -1,1 +1,1 @@
-Click on this link to preview - https://mohit-travel-agency.netlify.app/
+Click this link to preview the interface - https://mohit-travel-agency.netlify.app/
